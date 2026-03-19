@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e0e7ff&height=200&section=header&text=🐈%20Muzai-Moratorium%20🐈‍⬛&fontSize=45&fontColor=4338ca&font=Montserrat" />
+</div>
+
+<div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td valign="top" style="padding: 0; border: none;">
