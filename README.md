@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e0e7ff&height=200&section=header&text=🐈%20Muzai-Moratorium%20🐈‍⬛&fontSize=45&fontColor=4338ca&font=Montserrat" />
 </div>
 
-<div align="start">
+<div align="end">
   <img src="https://img.shields.io/badge/Coding_Since_2025.09.22-D%2B178-4338ca?style=for-the-badge&logo=github&logoColor=white&labelColor=e0e7ff" />
 </div>
 
