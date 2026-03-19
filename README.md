@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e0e7ff&height=200&section=header&text=🐈%20Muzai-Moratorium%20🐈‍⬛&fontSize=45&fontColor=4338ca&font=Montserrat" />
 </div>
 
@@ -47,10 +47,19 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="padding-bottom: 20px;">
-        <a href="https://solved.ac/kimsnofive">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimsnofive" alt="Solved.ac Tier" height="150" />
-        </a>
+      <td colspan="2" style="padding: 10px 20px 20px 20px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td align="center" valign="middle" style="padding-right: 10px;">
+              <a href="https://solved.ac/kimsnofive">
+                <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kimsnofive" alt="Solved.ac Tier" height="150" />
+              </a>
+            </td>
+            <td align="center" valign="middle">
+              <img src="http://mazandi.herokuapp.com/api?handle=kimsnofive&theme=warm" alt="Solved.ac Grass" height="150" />
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
