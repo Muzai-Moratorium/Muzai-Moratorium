@@ -24,6 +24,7 @@
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+        <br/>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <p align="center">
           <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,py,fastapi,flask,nodejs,notion,git" />
