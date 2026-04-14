@@ -41,10 +41,10 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 1px solid #e0e7ff; border-radius: 15px;">
     <tr>
       <td valign="top" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Muzai-Moratorium&show_icons=true&bg_color=fdf8f0,e8eaf6&title_color=3f51b5&text_color=424242&icon_color=3f51b5&height=180&hide_border=false" alt="Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=Muzai-Moratorium&show_icons=true&bg_color=fdf8f0,e8eaf6&title_color=3f51b5&text_color=424242&icon_color=3f51b5&height=180&hide_border=false&cache_seconds=1800" alt="Stats" />
       </td>
       <td valign="top" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzai-Moratorium&layout=compact&bg_color=fdf8f0,e8eaf6&title_color=3f51b5&text_color=424242&height=180&hide_border=false" alt="Languages" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzai-Moratorium&layout=compact&bg_color=fdf8f0,e8eaf6&title_color=3f51b5&text_color=424242&height=180&hide_border=false&cache_seconds=1800" alt="Languages" />
       </td>
     </tr>
     <tr>
