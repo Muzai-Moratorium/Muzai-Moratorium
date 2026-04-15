@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333ab2&height=200&section=header&text=🐈%20Muzai-Moratorium%20🐈‍⬛&fontSize=45&fontColor=f0f2ff&font=Montserrat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333ab2&height=200&section=header&text=🐈%20Hello%20World%20🐈‍⬛&fontSize=45&fontColor=f0f2ff&font=Montserrat" />
 </div>
 
 <div align="end">
@@ -32,5 +32,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Copyright-2026_Muzai_Moratorium._All_Rights_Reserved.-333ab2?style=for-the-badge&labelColor=e0e7ff&logo=github&logoColor=333ab2" />
+  <img src="https://img.shields.io/badge/김지훈-2026_Muzai_Moratorium._All_Rights_Reserved.-333ab2?style=for-the-badge&labelColor=e0e7ff&logo=github&logoColor=333ab2" />
 </div>
