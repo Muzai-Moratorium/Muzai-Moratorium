@@ -3,7 +3,7 @@
 </div>
 
 <div align="end">
-  <img src="https://img.shields.io/badge/Coding_Since_2025.09.22-D%2B178-333ab2?style=for-the-badge&logo=github&logoColor=white&labelColor=e0e7ff" />
+  <img src="https://dday-generator.vercel.app/api/dday?date=2025-09-22&label=Coding+Since+2025.09.22&color=333ab2&bg=e0e7ff" />
 </div>
 
 <br/>
