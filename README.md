@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333ab2&height=200&section=header&text=🐈%20Hello%20World%20🐈‍⬛&fontSize=45&fontColor=f0f2ff&font=Montserrat" />
+<img width="512" height="800" alt="Hello World" src="https://github.com/user-attachments/assets/8c1028a7-4fa9-4200-b396-33f291bc5540" />
 </div>
 
-<div align="end">
-  <img src="https://dday-generator.vercel.app/api/dday?date=2025-09-22&label=Coding+Since+2025.09.22&color=333ab2&bg=e0e7ff" />
-</div>
 
 <br/>
 
@@ -31,6 +28,9 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://dday-generator.vercel.app/api/dday?date=2025-09-22&label=Coding+Since+2025.09.22&color=333ab2&bg=e0e7ff" />
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/김지훈-2026_Muzai_Moratorium._All_Rights_Reserved.-333ab2?style=for-the-badge&labelColor=e0e7ff&logo=github&logoColor=333ab2" />
 </div>
