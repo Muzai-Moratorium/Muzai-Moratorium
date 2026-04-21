@@ -14,7 +14,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Statistics_&_Algorithm-333ab2?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<div align="start" style="margin-top: 10px;">
+<div align="center" style="margin-top: 10px;">
   <p>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muzai-Moratorium&show_icons=true&bg_color=f0f2ff,ffffff&title_color=333ab2&text_color=333333&icon_color=333ab2&height=150&v=final_01" alt="Stats" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muzai-Moratorium&layout=compact&bg_color=f0f2ff,ffffff&title_color=333ab2&text_color=333333&height=150&v=final_01" alt="Languages" />
