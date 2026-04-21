@@ -1,14 +1,12 @@
 <div align="center">
-<img width="512" height="800" alt="Hello World" src="https://github.com/user-attachments/assets/8c1028a7-4fa9-4200-b396-33f291bc5540" />
+<img width="512" height="800" alt="Hello World2" src="https://github.com/user-attachments/assets/176af1f4-44fc-4fdb-b79a-9bc4565d4119" />
 </div>
-
-
 <br/>
-
 <img src="https://img.shields.io/badge/Tech_Stacks-333ab2?style=for-the-badge&logo=render&logoColor=white" />
 <div align="start" style="padding: 20px; border: 1px solid #333ab2; border-radius: 15px; background-color: #f0f2ff; margin-top: 10px;">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,py,fastapi,flask,nodejs,notion,git&perline=15" />
+   <img width="2048" height="135" alt="tags" src="https://github.com/user-attachments/assets/b5e8f166-f1a6-4c99-9ccd-8b1d8606ff5b" />
+
   </p>
 </div>
 
