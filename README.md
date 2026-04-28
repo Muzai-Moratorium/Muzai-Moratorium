@@ -1,6 +1,5 @@
 <div align="center">
-<img width="512" height="800" alt="Hello World latest" src="https://github.com/user-attachments/assets/b1afc621-d14b-446d-bbeb-968777aea7ca" />
-
+<img width="512" height="800" alt="Hello World" src="https://github.com/user-attachments/assets/b989485d-931f-43b4-a0d2-bcddbcc304a9" />
 </div>
 <br/>
 <img src="https://img.shields.io/badge/Tech_Stacks-333ab2?style=for-the-badge&logo=render&logoColor=white" />
