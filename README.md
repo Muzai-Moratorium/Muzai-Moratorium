@@ -1,6 +1,24 @@
+<div align="center">
+<h1 align="center">
+  <a href="https://myportfolio-gamma-jet.vercel.app/">
+   Click Me
+  </a>
+</h1>
+</h1>
+<img width="512" height="800" alt="Hello World" src="https://github.com/user-attachments/assets/b989485d-931f-43b4-a0d2-bcddbcc304a9" />
+</div>
+<br/>
+<img src="https://img.shields.io/badge/Tech_Stacks-333ab2?style=for-the-badge&logo=render&logoColor=white" />
+<div align="start" style="padding: 20px; border: 1px solid #333ab2; border-radius: 15px; background-color: #f0f2ff; margin-top: 10px;">
+  <p align="center">
+   <img width="2048" height="135" alt="tags" src="https://github.com/user-attachments/assets/b5e8f166-f1a6-4c99-9ccd-8b1d8606ff5b" />
 
+  </p>
+</div>
 
+<br/>
 
+<img src="https://img.shields.io/badge/Statistics_&_Algorithm-333ab2?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -25,4 +43,9 @@
 </div>
 <br/>
 
-
+<div align="center">
+  <img src="https://dday-generator.vercel.app/api/dday?date=2025-09-22&label=Coding+Since+2025.09.22&color=333ab2&bg=e0e7ff" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/김지훈-2026_Muzai_Moratorium._All_Rights_Reserved.-333ab2?style=for-the-badge&labelColor=e0e7ff&logo=github&logoColor=333ab2" />
+</div>
